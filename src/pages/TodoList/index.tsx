@@ -19,7 +19,7 @@ function TodoItem({ todo, onToggle }: TodoItemProps) {
   return (
     <div className={cx(styles.todo_item, { [styles.todo_item_checked]: todo.done })} onClick={() => onToggle(todo)}>
       <span role="button" className={styles.check_icon}>
-        <img src={todo.done ? checkedIcon : unCheckedIcon} />
+        <img src={todo.done ? checkedIcon : unCheckedIcon} alt="icon" />
       </span>
       <span className={styles.todo_item_text}>{todo.text}</span>
     </div>
