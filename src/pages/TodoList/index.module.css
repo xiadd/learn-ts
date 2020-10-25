@@ -84,3 +84,12 @@
 .complete_all_btn:hover {
   background-color: #e2e9d1;
 }
+
+@media only screen and (max-width: 600px) {
+  .todo_wrapper {
+    width: 100%;
+  }
+  .wrapper {
+    padding: 100px 20px;
+  }
+}
