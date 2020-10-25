@@ -1,0 +1,86 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fdf3db;
+  flex-direction: column;
+  height: 100vh;
+  padding: 100px;
+  box-sizing: border-box;
+}
+
+.todo_wrapper {
+  width: 500px;
+  border: 1px solid #e3cba7;
+  border-radius: .5rem;
+  background-color: #fff;
+  padding: .75rem 1rem;
+  height: auto;
+}
+
+.todo_input {
+  margin-bottom: 1rem;
+}
+
+.todo_input input {
+  width: 100%;
+  padding: .4rem .7rem;
+  appearance: none;
+  border: 1px solid #978d8c;
+  outline: none;
+  border-radius: .2rem;
+  font-size: .85rem;
+}
+
+.todo_input input:hover {
+  border-color: #739853;
+}
+
+.todo_input input:focus {
+  border-color: #739853;
+}
+
+.todo_item {
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+}
+
+.todo_item:hover .todo_item_text {
+  color: #978d8c;
+}
+
+.check_icon {
+  margin-right: .2rem;
+}
+
+.check_icon img {
+  width: 1.3rem;
+  vertical-align: sub;
+}
+
+.todo_item_text {
+  color: #200d0c;
+  line-height: 28px;
+  transition: .3s;
+}
+.todo_item_checked .todo_item_text {
+  color: #978d8c;
+  text-decoration: line-through;
+}
+
+.complete_all {
+  font-size: .75rem;
+  margin: 0.5rem 0.5rem 0.25rem;
+}
+
+.complete_all_btn {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #725b36;
+  transition: .1s;
+  user-select: none;
+}
+
+.complete_all_btn:hover {
+  background-color: #e2e9d1;
+}
