@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f7de3da.chunk.css",
-    "main.js": "/static/js/main.a5c79cd0.chunk.js",
-    "main.js.map": "/static/js/main.a5c79cd0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.13e0ec50.js",
-    "runtime-main.js.map": "/static/js/runtime-main.13e0ec50.js.map",
-    "static/js/2.f38178d1.chunk.js": "/static/js/2.f38178d1.chunk.js",
-    "static/js/2.f38178d1.chunk.js.map": "/static/js/2.f38178d1.chunk.js.map",
-    "static/js/3.fbbf7f77.chunk.js": "/static/js/3.fbbf7f77.chunk.js",
-    "static/js/3.fbbf7f77.chunk.js.map": "/static/js/3.fbbf7f77.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1f7de3da.chunk.css.map": "/static/css/main.1f7de3da.chunk.css.map",
-    "static/js/2.f38178d1.chunk.js.LICENSE.txt": "/static/js/2.f38178d1.chunk.js.LICENSE.txt",
-    "static/media/check_icon.08c72377.svg": "/static/media/check_icon.08c72377.svg",
-    "static/media/uncheck_icon.c9d8c882.svg": "/static/media/uncheck_icon.c9d8c882.svg"
+    "main.css": "/learn-ts/static/css/main.1f7de3da.chunk.css",
+    "main.js": "/learn-ts/static/js/main.a5c79cd0.chunk.js",
+    "main.js.map": "/learn-ts/static/js/main.a5c79cd0.chunk.js.map",
+    "runtime-main.js": "/learn-ts/static/js/runtime-main.38a5d82d.js",
+    "runtime-main.js.map": "/learn-ts/static/js/runtime-main.38a5d82d.js.map",
+    "static/js/2.f38178d1.chunk.js": "/learn-ts/static/js/2.f38178d1.chunk.js",
+    "static/js/2.f38178d1.chunk.js.map": "/learn-ts/static/js/2.f38178d1.chunk.js.map",
+    "static/js/3.fbbf7f77.chunk.js": "/learn-ts/static/js/3.fbbf7f77.chunk.js",
+    "static/js/3.fbbf7f77.chunk.js.map": "/learn-ts/static/js/3.fbbf7f77.chunk.js.map",
+    "index.html": "/learn-ts/index.html",
+    "static/css/main.1f7de3da.chunk.css.map": "/learn-ts/static/css/main.1f7de3da.chunk.css.map",
+    "static/js/2.f38178d1.chunk.js.LICENSE.txt": "/learn-ts/static/js/2.f38178d1.chunk.js.LICENSE.txt",
+    "static/media/check_icon.08c72377.svg": "/learn-ts/static/media/check_icon.08c72377.svg",
+    "static/media/uncheck_icon.c9d8c882.svg": "/learn-ts/static/media/uncheck_icon.c9d8c882.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.13e0ec50.js",
+    "static/js/runtime-main.38a5d82d.js",
     "static/js/2.f38178d1.chunk.js",
     "static/css/main.1f7de3da.chunk.css",
     "static/js/main.a5c79cd0.chunk.js"
